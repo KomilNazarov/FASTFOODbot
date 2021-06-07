@@ -1,0 +1,40 @@
+[
+  {
+    "nomi": "Go'shtli Pitsa",
+    "narxi": 35000,
+    "id": 12,
+    "rasmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjThI4Lv7_qGTH0EBJKcWMStDyqJX_n3r3-A&usqp=CAU"
+  },
+  {
+    "id": 23,
+    "nomi": "Chizburger + Free",
+    "narxi": 28000,
+    "rasmi": "https://www.gastronom.ru/binfiles/images/20180418/ba3e3a25.jpg"
+  },
+  {
+    "id": 34,
+    "nomi": "K F S",
+    "narxi": "15000",
+    "rasmi": "https://c.files.bbci.co.uk/66A2/production/_107847262_gettyimages-1152276563-594x594.jpg"
+  },
+  {
+    "id" : 45,
+    "nomi": "Gamburger",
+    "narxi": "15000",
+    "rasmi": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/165384.jpg"
+  },
+  {
+    "id": 25,
+    "nomi": "Lavash",
+    "narxi": "20000",
+    "rasmi": "https://www.photorecept.ru/wp-content/uploads/2018/10/da9581ee81134ea59740836aaf9e4a57-e1580887902436.jpg"
+  },
+  {
+    "id": 55,
+    "nomi": "Pishloqli_pitsa",
+    "narxi": "20000",
+    "rasmi": "https://i.ytimg.com/vi/YrYMyvjf-6E/mqdefault.jpg"
+  }
+
+
+]
